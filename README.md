@@ -1,2 +1,0 @@
-# Chromatics
-Chromatics Webcomic
